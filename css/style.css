@@ -1,0 +1,33 @@
+img {
+  margin: auto;
+  display: block;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.intro {
+  border: 5px double;
+  text-align: center;
+}
+
+.pro {
+  border-bottom: 5px double;
+}
+
+.work {
+  border-bottom: 5px double;
+}
+
+.skill {
+  border-bottom: 5px double;
+}
+
+h1 {
+  font-family: fantasy;
+}
+
+h2 {
+  font-family: fantasy;
+}
